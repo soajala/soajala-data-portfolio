@@ -4,10 +4,6 @@ Welcome to my data analytics portfolio! I use data to drive decisions through st
 
 ## Projects
 
-- [Customer Churn Analysis](./Customer-Churn-Analysis)
-- [HR Analytics Dashboard](./HR-Analytics-PowerBI)
-- [Unicorn Startups Exploration](./Unicorn-Startups-SQL)
-- [Mental Health EDA](./Mental-Health-EDA)
 
 ---
 
